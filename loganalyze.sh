@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Comment on local repo
+
 #check for number of arguments
 dir=$(pwd)
 if [ $# -eq 1 ]; then
