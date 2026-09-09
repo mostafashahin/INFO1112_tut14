@@ -2,6 +2,8 @@
 
 #Comment on local repo
 
+#Comment on remote repo
+
 #check for number of arguments
 dir=$(pwd)
 if [ $# -eq 1 ]; then
